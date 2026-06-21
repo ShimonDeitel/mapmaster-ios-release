@@ -1,0 +1,40 @@
+{
+  "appPolicies" : {
+    "eula" : "",
+    "policies" : [
+      {
+        "locale" : "en_US",
+        "policyText" : "",
+        "policyURL" : ""
+      }
+    ]
+  },
+  "identifier" : "MAPMASTER_STOREKIT_CONFIG",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : true,
+      "internalID" : "mapmaster_pro_unlock_id",
+      "localizations" : [
+        {
+          "description" : "Unlock all regions, Hard Mode, the full mastery map and one-tap sharing. One-time purchase.",
+          "displayName" : "MapMaster Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "mapmaster_pro_unlock",
+      "referenceName" : "MapMaster Pro Unlock",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_failTransactionsEnabled" : false,
+    "_storeKitErrors" : []
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}

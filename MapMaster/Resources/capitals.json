@@ -1,0 +1,1142 @@
+[
+ {
+  "country": "France",
+  "capital": "Paris",
+  "region": "europe",
+  "fact": "The Seine river runs through the centre of the city."
+ },
+ {
+  "country": "Germany",
+  "capital": "Berlin",
+  "region": "europe",
+  "fact": "The city has more bridges than Venice."
+ },
+ {
+  "country": "Italy",
+  "capital": "Rome",
+  "region": "europe",
+  "fact": "An independent country, Vatican City, sits inside it."
+ },
+ {
+  "country": "Spain",
+  "capital": "Madrid",
+  "region": "europe",
+  "fact": "It stands on a high plateau near the centre of the country."
+ },
+ {
+  "country": "Portugal",
+  "capital": "Lisbon",
+  "region": "europe",
+  "fact": "One of the oldest cities in Western Europe."
+ },
+ {
+  "country": "United Kingdom",
+  "capital": "London",
+  "region": "europe",
+  "fact": "The River Thames flows through the city."
+ },
+ {
+  "country": "Ireland",
+  "capital": "Dublin",
+  "region": "europe",
+  "fact": "Its name comes from words meaning 'black pool'."
+ },
+ {
+  "country": "Netherlands",
+  "capital": "Amsterdam",
+  "region": "europe",
+  "fact": "The city is built around a network of canals."
+ },
+ {
+  "country": "Belgium",
+  "capital": "Brussels",
+  "region": "europe",
+  "fact": "It hosts the headquarters of the European Union."
+ },
+ {
+  "country": "Switzerland",
+  "capital": "Bern",
+  "region": "europe",
+  "fact": "The old town is a UNESCO World Heritage Site."
+ },
+ {
+  "country": "Austria",
+  "capital": "Vienna",
+  "region": "europe",
+  "fact": "Often ranked among the world's most liveable cities."
+ },
+ {
+  "country": "Sweden",
+  "capital": "Stockholm",
+  "region": "europe",
+  "fact": "It is spread across fourteen islands."
+ },
+ {
+  "country": "Norway",
+  "capital": "Oslo",
+  "region": "europe",
+  "fact": "It sits at the head of a long fjord."
+ },
+ {
+  "country": "Denmark",
+  "capital": "Copenhagen",
+  "region": "europe",
+  "fact": "Connected to Sweden by a bridge and tunnel link."
+ },
+ {
+  "country": "Finland",
+  "capital": "Helsinki",
+  "region": "europe",
+  "fact": "It lies on a peninsula on the Gulf of Finland."
+ },
+ {
+  "country": "Iceland",
+  "capital": "Reykjavik",
+  "region": "europe",
+  "fact": "The world's northernmost capital of a sovereign state."
+ },
+ {
+  "country": "Poland",
+  "capital": "Warsaw",
+  "region": "europe",
+  "fact": "Much of the old town was carefully rebuilt after wartime damage."
+ },
+ {
+  "country": "Czechia",
+  "capital": "Prague",
+  "region": "europe",
+  "fact": "Famous for its astronomical clock from the 1400s."
+ },
+ {
+  "country": "Slovakia",
+  "capital": "Bratislava",
+  "region": "europe",
+  "fact": "It borders two other countries, Austria and Hungary."
+ },
+ {
+  "country": "Hungary",
+  "capital": "Budapest",
+  "region": "europe",
+  "fact": "Formed by uniting the towns of Buda and Pest."
+ },
+ {
+  "country": "Greece",
+  "capital": "Athens",
+  "region": "europe",
+  "fact": "Named after the goddess Athena."
+ },
+ {
+  "country": "Romania",
+  "capital": "Bucharest",
+  "region": "europe",
+  "fact": "Home to one of the largest administrative buildings on Earth."
+ },
+ {
+  "country": "Bulgaria",
+  "capital": "Sofia",
+  "region": "europe",
+  "fact": "One of the oldest cities in Europe, settled for millennia."
+ },
+ {
+  "country": "Croatia",
+  "capital": "Zagreb",
+  "region": "europe",
+  "fact": "Its name relates to a word meaning 'to dig'."
+ },
+ {
+  "country": "Serbia",
+  "capital": "Belgrade",
+  "region": "europe",
+  "fact": "It sits where the Sava and Danube rivers meet."
+ },
+ {
+  "country": "Slovenia",
+  "capital": "Ljubljana",
+  "region": "europe",
+  "fact": "A dragon is the symbol of the city."
+ },
+ {
+  "country": "Bosnia and Herzegovina",
+  "capital": "Sarajevo",
+  "region": "europe",
+  "fact": "Cultures of East and West meet in its old quarter."
+ },
+ {
+  "country": "North Macedonia",
+  "capital": "Skopje",
+  "region": "europe",
+  "fact": "Birthplace of Mother Teresa."
+ },
+ {
+  "country": "Albania",
+  "capital": "Tirana",
+  "region": "europe",
+  "fact": "Many of its buildings are painted in bright colours."
+ },
+ {
+  "country": "Montenegro",
+  "capital": "Podgorica",
+  "region": "europe",
+  "fact": "Its name means 'at the foot of the mountain'."
+ },
+ {
+  "country": "Kosovo",
+  "capital": "Pristina",
+  "region": "europe",
+  "fact": "One of the youngest capitals in Europe."
+ },
+ {
+  "country": "Lithuania",
+  "capital": "Vilnius",
+  "region": "europe",
+  "fact": "Its old town is one of the largest in Eastern Europe."
+ },
+ {
+  "country": "Latvia",
+  "capital": "Riga",
+  "region": "europe",
+  "fact": "Known for its many Art Nouveau buildings."
+ },
+ {
+  "country": "Estonia",
+  "capital": "Tallinn",
+  "region": "europe",
+  "fact": "Its medieval old town is remarkably well preserved."
+ },
+ {
+  "country": "Ukraine",
+  "capital": "Kyiv",
+  "region": "europe",
+  "fact": "One of the oldest cities in Eastern Europe."
+ },
+ {
+  "country": "Belarus",
+  "capital": "Minsk",
+  "region": "europe",
+  "fact": "Rebuilt in a grand style in the mid-1900s."
+ },
+ {
+  "country": "Moldova",
+  "capital": "Chisinau",
+  "region": "europe",
+  "fact": "Much of the city is built from local limestone."
+ },
+ {
+  "country": "Luxembourg",
+  "capital": "Luxembourg",
+  "region": "europe",
+  "fact": "Deep gorges cut through the heart of the city."
+ },
+ {
+  "country": "Malta",
+  "capital": "Valletta",
+  "region": "europe",
+  "fact": "One of the smallest capital cities in Europe."
+ },
+ {
+  "country": "Cyprus",
+  "capital": "Nicosia",
+  "region": "europe",
+  "fact": "The last divided capital city in Europe."
+ },
+ {
+  "country": "Andorra",
+  "capital": "Andorra la Vella",
+  "region": "europe",
+  "fact": "The highest capital city in Europe by elevation."
+ },
+ {
+  "country": "Monaco",
+  "capital": "Monaco",
+  "region": "europe",
+  "fact": "One of the most densely populated places on Earth."
+ },
+ {
+  "country": "San Marino",
+  "capital": "San Marino",
+  "region": "europe",
+  "fact": "Capital of one of the world's oldest republics."
+ },
+ {
+  "country": "Liechtenstein",
+  "capital": "Vaduz",
+  "region": "europe",
+  "fact": "A castle overlooks the town from a hillside."
+ },
+ {
+  "country": "Russia",
+  "capital": "Moscow",
+  "region": "europe",
+  "fact": "Its Red Square lies beside the Kremlin."
+ },
+ {
+  "country": "China",
+  "capital": "Beijing",
+  "region": "asia",
+  "fact": "Home to the vast palace complex known as the Forbidden City."
+ },
+ {
+  "country": "Japan",
+  "capital": "Tokyo",
+  "region": "asia",
+  "fact": "One of the most populous metropolitan areas on Earth."
+ },
+ {
+  "country": "South Korea",
+  "capital": "Seoul",
+  "region": "asia",
+  "fact": "The Han River divides the city in two."
+ },
+ {
+  "country": "North Korea",
+  "capital": "Pyongyang",
+  "region": "asia",
+  "fact": "It sits on the banks of the Taedong River."
+ },
+ {
+  "country": "India",
+  "capital": "New Delhi",
+  "region": "asia",
+  "fact": "It was planned and built as a new capital in the 1900s."
+ },
+ {
+  "country": "Pakistan",
+  "capital": "Islamabad",
+  "region": "asia",
+  "fact": "A purpose-built capital completed in the 1960s."
+ },
+ {
+  "country": "Bangladesh",
+  "capital": "Dhaka",
+  "region": "asia",
+  "fact": "Known historically for its fine muslin cloth."
+ },
+ {
+  "country": "Sri Lanka",
+  "capital": "Sri Jayawardenepura Kotte",
+  "region": "asia",
+  "fact": "The official capital near the city of Colombo."
+ },
+ {
+  "country": "Nepal",
+  "capital": "Kathmandu",
+  "region": "asia",
+  "fact": "It lies in a valley ringed by the Himalayas."
+ },
+ {
+  "country": "Bhutan",
+  "capital": "Thimphu",
+  "region": "asia",
+  "fact": "One of the few capitals without traffic lights."
+ },
+ {
+  "country": "Myanmar",
+  "capital": "Naypyidaw",
+  "region": "asia",
+  "fact": "A planned capital with very wide, open roads."
+ },
+ {
+  "country": "Thailand",
+  "capital": "Bangkok",
+  "region": "asia",
+  "fact": "Its full ceremonial name is famously long."
+ },
+ {
+  "country": "Vietnam",
+  "capital": "Hanoi",
+  "region": "asia",
+  "fact": "One of the oldest capitals in Southeast Asia."
+ },
+ {
+  "country": "Cambodia",
+  "capital": "Phnom Penh",
+  "region": "asia",
+  "fact": "It sits where several rivers meet."
+ },
+ {
+  "country": "Laos",
+  "capital": "Vientiane",
+  "region": "asia",
+  "fact": "It lies along the Mekong River."
+ },
+ {
+  "country": "Malaysia",
+  "capital": "Kuala Lumpur",
+  "region": "asia",
+  "fact": "Its name means 'muddy confluence'."
+ },
+ {
+  "country": "Singapore",
+  "capital": "Singapore",
+  "region": "asia",
+  "fact": "A city, an island, and a country all at once."
+ },
+ {
+  "country": "Indonesia",
+  "capital": "Jakarta",
+  "region": "asia",
+  "fact": "It sits on the northwest coast of Java."
+ },
+ {
+  "country": "Philippines",
+  "capital": "Manila",
+  "region": "asia",
+  "fact": "It lies on a large natural harbour."
+ },
+ {
+  "country": "Brunei",
+  "capital": "Bandar Seri Begawan",
+  "region": "asia",
+  "fact": "Part of the city is built on stilts over water."
+ },
+ {
+  "country": "Mongolia",
+  "capital": "Ulaanbaatar",
+  "region": "asia",
+  "fact": "One of the coldest capital cities on average."
+ },
+ {
+  "country": "Kazakhstan",
+  "capital": "Astana",
+  "region": "asia",
+  "fact": "A modern planned capital on the steppe."
+ },
+ {
+  "country": "Uzbekistan",
+  "capital": "Tashkent",
+  "region": "asia",
+  "fact": "A historic stop on the old Silk Road."
+ },
+ {
+  "country": "Turkmenistan",
+  "capital": "Ashgabat",
+  "region": "asia",
+  "fact": "Known for its many white marble buildings."
+ },
+ {
+  "country": "Kyrgyzstan",
+  "capital": "Bishkek",
+  "region": "asia",
+  "fact": "It sits near the foot of tall mountains."
+ },
+ {
+  "country": "Tajikistan",
+  "capital": "Dushanbe",
+  "region": "asia",
+  "fact": "Its name relates to a word for 'Monday'."
+ },
+ {
+  "country": "Afghanistan",
+  "capital": "Kabul",
+  "region": "asia",
+  "fact": "One of the highest capital cities in the world."
+ },
+ {
+  "country": "Taiwan",
+  "capital": "Taipei",
+  "region": "asia",
+  "fact": "Surrounded by mountains and hot springs."
+ },
+ {
+  "country": "Maldives",
+  "capital": "Male",
+  "region": "asia",
+  "fact": "One of the most densely populated capital islands."
+ },
+ {
+  "country": "Timor-Leste",
+  "capital": "Dili",
+  "region": "asia",
+  "fact": "It lies on the north coast of its island."
+ },
+ {
+  "country": "Turkey",
+  "capital": "Ankara",
+  "region": "middleeast",
+  "fact": "Chosen as capital in place of Istanbul in the 1920s."
+ },
+ {
+  "country": "Iran",
+  "capital": "Tehran",
+  "region": "middleeast",
+  "fact": "It sits at the foot of a tall mountain range."
+ },
+ {
+  "country": "Iraq",
+  "capital": "Baghdad",
+  "region": "middleeast",
+  "fact": "It lies along the Tigris River."
+ },
+ {
+  "country": "Saudi Arabia",
+  "capital": "Riyadh",
+  "region": "middleeast",
+  "fact": "Its name relates to a word for 'gardens'."
+ },
+ {
+  "country": "United Arab Emirates",
+  "capital": "Abu Dhabi",
+  "region": "middleeast",
+  "fact": "Built mostly on a coastal island."
+ },
+ {
+  "country": "Qatar",
+  "capital": "Doha",
+  "region": "middleeast",
+  "fact": "Most of the country's people live here."
+ },
+ {
+  "country": "Kuwait",
+  "capital": "Kuwait City",
+  "region": "middleeast",
+  "fact": "Known for its tall water tower landmarks."
+ },
+ {
+  "country": "Bahrain",
+  "capital": "Manama",
+  "region": "middleeast",
+  "fact": "An island capital in the Persian Gulf."
+ },
+ {
+  "country": "Oman",
+  "capital": "Muscat",
+  "region": "middleeast",
+  "fact": "Mountains rise right behind the coastal city."
+ },
+ {
+  "country": "Yemen",
+  "capital": "Sanaa",
+  "region": "middleeast",
+  "fact": "One of the oldest continuously settled cities."
+ },
+ {
+  "country": "Jordan",
+  "capital": "Amman",
+  "region": "middleeast",
+  "fact": "It is built across a series of hills."
+ },
+ {
+  "country": "Lebanon",
+  "capital": "Beirut",
+  "region": "middleeast",
+  "fact": "It sits on a peninsula reaching into the sea."
+ },
+ {
+  "country": "Syria",
+  "capital": "Damascus",
+  "region": "middleeast",
+  "fact": "Among the oldest continuously inhabited cities."
+ },
+ {
+  "country": "Israel",
+  "capital": "Jerusalem",
+  "region": "middleeast",
+  "fact": "One of the oldest cities in the world."
+ },
+ {
+  "country": "Egypt",
+  "capital": "Cairo",
+  "region": "africa",
+  "fact": "The Nile River flows through the city."
+ },
+ {
+  "country": "Nigeria",
+  "capital": "Abuja",
+  "region": "africa",
+  "fact": "A planned capital built to be central in the country."
+ },
+ {
+  "country": "South Africa",
+  "capital": "Pretoria",
+  "region": "africa",
+  "fact": "One of the country's three capital cities."
+ },
+ {
+  "country": "Kenya",
+  "capital": "Nairobi",
+  "region": "africa",
+  "fact": "A large national park lies right beside the city."
+ },
+ {
+  "country": "Ethiopia",
+  "capital": "Addis Ababa",
+  "region": "africa",
+  "fact": "Its name means 'new flower'."
+ },
+ {
+  "country": "Ghana",
+  "capital": "Accra",
+  "region": "africa",
+  "fact": "It sits on the Gulf of Guinea coast."
+ },
+ {
+  "country": "Morocco",
+  "capital": "Rabat",
+  "region": "africa",
+  "fact": "It lies on the Atlantic coast at a river mouth."
+ },
+ {
+  "country": "Algeria",
+  "capital": "Algiers",
+  "region": "africa",
+  "fact": "Its old quarter climbs steep hills above the sea."
+ },
+ {
+  "country": "Tunisia",
+  "capital": "Tunis",
+  "region": "africa",
+  "fact": "An ancient city site lies just outside it."
+ },
+ {
+  "country": "Libya",
+  "capital": "Tripoli",
+  "region": "africa",
+  "fact": "A port city on the Mediterranean coast."
+ },
+ {
+  "country": "Sudan",
+  "capital": "Khartoum",
+  "region": "africa",
+  "fact": "It sits where two branches of the Nile meet."
+ },
+ {
+  "country": "Tanzania",
+  "capital": "Dodoma",
+  "region": "africa",
+  "fact": "Made the official capital in place of Dar es Salaam."
+ },
+ {
+  "country": "Uganda",
+  "capital": "Kampala",
+  "region": "africa",
+  "fact": "Built across a series of green hills."
+ },
+ {
+  "country": "Senegal",
+  "capital": "Dakar",
+  "region": "africa",
+  "fact": "The westernmost capital on mainland Africa."
+ },
+ {
+  "country": "Ivory Coast",
+  "capital": "Yamoussoukro",
+  "region": "africa",
+  "fact": "Home to a very large basilica."
+ },
+ {
+  "country": "Cameroon",
+  "capital": "Yaounde",
+  "region": "africa",
+  "fact": "It lies among rolling green hills."
+ },
+ {
+  "country": "Angola",
+  "capital": "Luanda",
+  "region": "africa",
+  "fact": "A coastal city on the Atlantic Ocean."
+ },
+ {
+  "country": "Mozambique",
+  "capital": "Maputo",
+  "region": "africa",
+  "fact": "Known for its tree-lined avenues."
+ },
+ {
+  "country": "Zimbabwe",
+  "capital": "Harare",
+  "region": "africa",
+  "fact": "It sits on a high inland plateau."
+ },
+ {
+  "country": "Zambia",
+  "capital": "Lusaka",
+  "region": "africa",
+  "fact": "A central hub of road and rail routes."
+ },
+ {
+  "country": "Botswana",
+  "capital": "Gaborone",
+  "region": "africa",
+  "fact": "It grew quickly from a small town."
+ },
+ {
+  "country": "Namibia",
+  "capital": "Windhoek",
+  "region": "africa",
+  "fact": "It lies in a basin surrounded by hills."
+ },
+ {
+  "country": "Madagascar",
+  "capital": "Antananarivo",
+  "region": "africa",
+  "fact": "Built across a long ridge of hills."
+ },
+ {
+  "country": "Mali",
+  "capital": "Bamako",
+  "region": "africa",
+  "fact": "It lies along the Niger River."
+ },
+ {
+  "country": "Burkina Faso",
+  "capital": "Ouagadougou",
+  "region": "africa",
+  "fact": "A centre of African film festivals."
+ },
+ {
+  "country": "Niger",
+  "capital": "Niamey",
+  "region": "africa",
+  "fact": "It sits on the banks of the Niger River."
+ },
+ {
+  "country": "Chad",
+  "capital": "N'Djamena",
+  "region": "africa",
+  "fact": "It lies near a river on the country's western edge."
+ },
+ {
+  "country": "Somalia",
+  "capital": "Mogadishu",
+  "region": "africa",
+  "fact": "An ancient port on the Indian Ocean."
+ },
+ {
+  "country": "Rwanda",
+  "capital": "Kigali",
+  "region": "africa",
+  "fact": "Spread across several hills and valleys."
+ },
+ {
+  "country": "Burundi",
+  "capital": "Gitega",
+  "region": "africa",
+  "fact": "Made the political capital in recent years."
+ },
+ {
+  "country": "Malawi",
+  "capital": "Lilongwe",
+  "region": "africa",
+  "fact": "A planned capital near the country's centre."
+ },
+ {
+  "country": "Benin",
+  "capital": "Porto-Novo",
+  "region": "africa",
+  "fact": "The official capital, on a coastal lagoon."
+ },
+ {
+  "country": "Togo",
+  "capital": "Lome",
+  "region": "africa",
+  "fact": "A coastal capital right on the border."
+ },
+ {
+  "country": "Sierra Leone",
+  "capital": "Freetown",
+  "region": "africa",
+  "fact": "Founded as a home for freed people."
+ },
+ {
+  "country": "Liberia",
+  "capital": "Monrovia",
+  "region": "africa",
+  "fact": "Named after an American president."
+ },
+ {
+  "country": "Guinea",
+  "capital": "Conakry",
+  "region": "africa",
+  "fact": "Originally built on an island, now joined to land."
+ },
+ {
+  "country": "Gabon",
+  "capital": "Libreville",
+  "region": "africa",
+  "fact": "Its name means 'free town' in French."
+ },
+ {
+  "country": "Congo",
+  "capital": "Brazzaville",
+  "region": "africa",
+  "fact": "It faces another capital across a wide river."
+ },
+ {
+  "country": "DR Congo",
+  "capital": "Kinshasa",
+  "region": "africa",
+  "fact": "One of the largest French-speaking cities."
+ },
+ {
+  "country": "Mauritania",
+  "capital": "Nouakchott",
+  "region": "africa",
+  "fact": "A capital on the edge of the desert."
+ },
+ {
+  "country": "Eritrea",
+  "capital": "Asmara",
+  "region": "africa",
+  "fact": "Known for its 1930s modernist architecture."
+ },
+ {
+  "country": "South Sudan",
+  "capital": "Juba",
+  "region": "africa",
+  "fact": "One of the world's newest capital cities."
+ },
+ {
+  "country": "Central African Republic",
+  "capital": "Bangui",
+  "region": "africa",
+  "fact": "It lies on a river along the southern border."
+ },
+ {
+  "country": "Gambia",
+  "capital": "Banjul",
+  "region": "africa",
+  "fact": "Built on an island at a river mouth."
+ },
+ {
+  "country": "Guinea-Bissau",
+  "capital": "Bissau",
+  "region": "africa",
+  "fact": "A port on a wide river estuary."
+ },
+ {
+  "country": "Lesotho",
+  "capital": "Maseru",
+  "region": "africa",
+  "fact": "It lies along a river on the western border."
+ },
+ {
+  "country": "Eswatini",
+  "capital": "Mbabane",
+  "region": "africa",
+  "fact": "Set among hills in the highlands."
+ },
+ {
+  "country": "Djibouti",
+  "capital": "Djibouti",
+  "region": "africa",
+  "fact": "A key port near a busy shipping strait."
+ },
+ {
+  "country": "Equatorial Guinea",
+  "capital": "Malabo",
+  "region": "africa",
+  "fact": "The capital sits on a volcanic island."
+ },
+ {
+  "country": "Cape Verde",
+  "capital": "Praia",
+  "region": "africa",
+  "fact": "An island capital in the Atlantic."
+ },
+ {
+  "country": "Comoros",
+  "capital": "Moroni",
+  "region": "africa",
+  "fact": "It lies at the foot of an active volcano."
+ },
+ {
+  "country": "Seychelles",
+  "capital": "Victoria",
+  "region": "africa",
+  "fact": "One of the smallest capitals in the world."
+ },
+ {
+  "country": "Mauritius",
+  "capital": "Port Louis",
+  "region": "africa",
+  "fact": "A busy harbour city ringed by mountains."
+ },
+ {
+  "country": "Sao Tome and Principe",
+  "capital": "Sao Tome",
+  "region": "africa",
+  "fact": "An island capital near the equator."
+ },
+ {
+  "country": "United States",
+  "capital": "Washington, D.C.",
+  "region": "americas",
+  "fact": "A planned capital not part of any state."
+ },
+ {
+  "country": "Canada",
+  "capital": "Ottawa",
+  "region": "americas",
+  "fact": "A canal through the city freezes into a winter skating path."
+ },
+ {
+  "country": "Mexico",
+  "capital": "Mexico City",
+  "region": "americas",
+  "fact": "Built on the site of an ancient lake city."
+ },
+ {
+  "country": "Brazil",
+  "capital": "Brasilia",
+  "region": "americas",
+  "fact": "A planned capital shaped a bit like an aeroplane."
+ },
+ {
+  "country": "Argentina",
+  "capital": "Buenos Aires",
+  "region": "americas",
+  "fact": "Its people are nicknamed 'porteños'."
+ },
+ {
+  "country": "Colombia",
+  "capital": "Bogota",
+  "region": "americas",
+  "fact": "A high-altitude capital in the Andes."
+ },
+ {
+  "country": "Peru",
+  "capital": "Lima",
+  "region": "americas",
+  "fact": "Founded along the Pacific coast in the 1500s."
+ },
+ {
+  "country": "Chile",
+  "capital": "Santiago",
+  "region": "americas",
+  "fact": "Snow-capped mountains rise on its eastern edge."
+ },
+ {
+  "country": "Venezuela",
+  "capital": "Caracas",
+  "region": "americas",
+  "fact": "It sits in a valley near the Caribbean coast."
+ },
+ {
+  "country": "Ecuador",
+  "capital": "Quito",
+  "region": "americas",
+  "fact": "One of the highest capital cities in the world."
+ },
+ {
+  "country": "Bolivia",
+  "capital": "Sucre",
+  "region": "americas",
+  "fact": "The constitutional capital, known for white buildings."
+ },
+ {
+  "country": "Paraguay",
+  "capital": "Asuncion",
+  "region": "americas",
+  "fact": "One of the oldest cities in South America."
+ },
+ {
+  "country": "Uruguay",
+  "capital": "Montevideo",
+  "region": "americas",
+  "fact": "It faces a very wide river estuary."
+ },
+ {
+  "country": "Guyana",
+  "capital": "Georgetown",
+  "region": "americas",
+  "fact": "Much of the city sits below sea level."
+ },
+ {
+  "country": "Suriname",
+  "capital": "Paramaribo",
+  "region": "americas",
+  "fact": "Known for its wooden colonial buildings."
+ },
+ {
+  "country": "Cuba",
+  "capital": "Havana",
+  "region": "americas",
+  "fact": "Famous for its classic mid-century cars."
+ },
+ {
+  "country": "Jamaica",
+  "capital": "Kingston",
+  "region": "americas",
+  "fact": "It has one of the largest natural harbours."
+ },
+ {
+  "country": "Haiti",
+  "capital": "Port-au-Prince",
+  "region": "americas",
+  "fact": "It lies on a large gulf on the island."
+ },
+ {
+  "country": "Dominican Republic",
+  "capital": "Santo Domingo",
+  "region": "americas",
+  "fact": "One of the oldest European-founded cities in the Americas."
+ },
+ {
+  "country": "Guatemala",
+  "capital": "Guatemala City",
+  "region": "americas",
+  "fact": "Ringed by several volcanoes."
+ },
+ {
+  "country": "Honduras",
+  "capital": "Tegucigalpa",
+  "region": "americas",
+  "fact": "Its name relates to a word for silver hills."
+ },
+ {
+  "country": "El Salvador",
+  "capital": "San Salvador",
+  "region": "americas",
+  "fact": "It sits in a valley near a volcano."
+ },
+ {
+  "country": "Nicaragua",
+  "capital": "Managua",
+  "region": "americas",
+  "fact": "It lies along the shore of a large lake."
+ },
+ {
+  "country": "Costa Rica",
+  "capital": "San Jose",
+  "region": "americas",
+  "fact": "Set on a high central plateau."
+ },
+ {
+  "country": "Panama",
+  "capital": "Panama City",
+  "region": "americas",
+  "fact": "Near the famous canal linking two oceans."
+ },
+ {
+  "country": "Belize",
+  "capital": "Belmopan",
+  "region": "americas",
+  "fact": "A small inland planned capital."
+ },
+ {
+  "country": "Bahamas",
+  "capital": "Nassau",
+  "region": "americas",
+  "fact": "Spread across an island chain in the Atlantic."
+ },
+ {
+  "country": "Barbados",
+  "capital": "Bridgetown",
+  "region": "americas",
+  "fact": "A harbour city on the island's southwest coast."
+ },
+ {
+  "country": "Trinidad and Tobago",
+  "capital": "Port of Spain",
+  "region": "americas",
+  "fact": "Known for its lively carnival celebrations."
+ },
+ {
+  "country": "Grenada",
+  "capital": "Saint George's",
+  "region": "americas",
+  "fact": "Built around a horseshoe-shaped harbour."
+ },
+ {
+  "country": "Saint Lucia",
+  "capital": "Castries",
+  "region": "americas",
+  "fact": "A port city set among green hills."
+ },
+ {
+  "country": "Antigua and Barbuda",
+  "capital": "Saint John's",
+  "region": "americas",
+  "fact": "A harbour town once important to sailing fleets."
+ },
+ {
+  "country": "Dominica",
+  "capital": "Roseau",
+  "region": "americas",
+  "fact": "It lies at the mouth of a river on the coast."
+ },
+ {
+  "country": "Australia",
+  "capital": "Canberra",
+  "region": "oceania",
+  "fact": "A planned capital chosen between two rival cities."
+ },
+ {
+  "country": "New Zealand",
+  "capital": "Wellington",
+  "region": "oceania",
+  "fact": "One of the windiest cities in the world."
+ },
+ {
+  "country": "Papua New Guinea",
+  "capital": "Port Moresby",
+  "region": "oceania",
+  "fact": "It lies on a natural harbour on the south coast."
+ },
+ {
+  "country": "Fiji",
+  "capital": "Suva",
+  "region": "oceania",
+  "fact": "A port city on the country's largest island."
+ },
+ {
+  "country": "Solomon Islands",
+  "capital": "Honiara",
+  "region": "oceania",
+  "fact": "The capital sits on the island of Guadalcanal."
+ },
+ {
+  "country": "Vanuatu",
+  "capital": "Port Vila",
+  "region": "oceania",
+  "fact": "A harbour town on a volcanic island."
+ },
+ {
+  "country": "Samoa",
+  "capital": "Apia",
+  "region": "oceania",
+  "fact": "The only city in the island nation."
+ },
+ {
+  "country": "Tonga",
+  "capital": "Nuku'alofa",
+  "region": "oceania",
+  "fact": "Its name means 'abode of love'."
+ },
+ {
+  "country": "Kiribati",
+  "capital": "Tarawa",
+  "region": "oceania",
+  "fact": "Spread across a ring-shaped coral reef."
+ },
+ {
+  "country": "Micronesia",
+  "capital": "Palikir",
+  "region": "oceania",
+  "fact": "A small capital on the island of Pohnpei."
+ },
+ {
+  "country": "Palau",
+  "capital": "Ngerulmud",
+  "region": "oceania",
+  "fact": "One of the least populated capitals on Earth."
+ },
+ {
+  "country": "Marshall Islands",
+  "capital": "Majuro",
+  "region": "oceania",
+  "fact": "Built along a narrow coral atoll."
+ },
+ {
+  "country": "Nauru",
+  "capital": "Yaren",
+  "region": "oceania",
+  "fact": "One of the smallest capital districts in the world."
+ },
+ {
+  "country": "Tuvalu",
+  "capital": "Funafuti",
+  "region": "oceania",
+  "fact": "A low-lying atoll capital in the Pacific."
+ }
+]
